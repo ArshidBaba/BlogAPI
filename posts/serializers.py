@@ -13,3 +13,4 @@ class PostSerializer(serializers.ModelSerializer):
             "created_at",
         )
         model = Post
+
